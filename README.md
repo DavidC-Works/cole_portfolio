@@ -14,7 +14,8 @@ Below I have a list of the features used to create this website:
 - ..
 - ..
 
-## Tools & Extensions USed
+## Tools & Extensions Used
+Below I have a list of tools and VSCode extensions used when creating this webpage:
 - **Languages**: HTML5, CSS3, JavaScript (ES6)
 - **Editor**: Visual Studio Code
 - **Extensions**: Live Server, Prettier, ESLint, Auto Rename Tag, Auto Close Tag
