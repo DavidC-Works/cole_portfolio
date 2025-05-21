@@ -3,22 +3,22 @@
 - This project is my perfromance assessment and allows me to demonstrate my skills in HTML, CSS, and Javascript in order to recieve credit for the course.
 
 ## Project Overview
-This will be a portfolio website showcasing a basic HTML page with:
+This will be a portfolio website showcasing a basic HTML webpage with:
 - Customg styling via CSS
 - Interactive elements via JavaScript
 - Embedded video, imagery, and audio content
 
 ## Features
 Below I have a list of the features used to create this website:
-- 
-- 
-- 
+- ..In Progress.. 
+- ..
+- ..
 
 ## Tools & Extensions USed
-- Languages: HTML5, CSS3, JavaScript (ES6)
-- Editor: Visual Studio Code
-- Extensions: Live Server, Prettier, ESLint, Auto Rename Tag, Auto Close Tag
-- Preview Tool: Live Server for real-time testing
+- **Languages**: HTML5, CSS3, JavaScript (ES6)
+- **Editor**: Visual Studio Code
+- **Extensions**: Live Server, Prettier, ESLint, Auto Rename Tag, Auto Close Tag
+- **Preview Tool**: Live Server for real-time testing
 
 ## Media Attributions
 All media used in this project are either original creations or licensed for use through Artlist Max.
