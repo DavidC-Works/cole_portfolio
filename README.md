@@ -1,5 +1,5 @@
-## About ME
-- Hey! I'm David Cole, a undergrad at Western Governers University (WGU) currently completing "Web Development Foundation (D276)" 
+## About Me
+- Hey! I'm David Cole, a undergrad at Western Governers University (WGU) currently completing "Web Development Foundation (D276)". 
 - This project is my perfromance assessment and allows me to demonstrate my skills in HTML, CSS, and Javascript in order to recieve credit for the course.
 
 ## Project Overview
