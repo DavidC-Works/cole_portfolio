@@ -1,12 +1,16 @@
 ## About Me
 - Hey! I'm David Cole, a undergrad at Western Governers University (WGU) currently completing "Web Development Foundation (D276)". 
-- This project is my perfromance assessment and allows me to demonstrate my skills in HTML, CSS, and Javascript in order to recieve credit for the course.
+- This project is my perfromance assessment and allows me to demonstrate my proficiency in HTML, CSS, and Javascript in order to recieve credit for the course.
 
 ## Project Overview
 *This will be a portfolio website showcasing a basic HTML webpage with:*
 - Customg styling via CSS
 - Interactive elements via JavaScript
 - Embedded video, imagery, and audio content
+
+*In more professional language this project accomplishes the following:*
+- Addresses my need for a showcase of coding experience.
+- Provides potential employers with insight who I am as a individial.
 
 ## Features
 *Below I have a list of the features used to create this website:*
@@ -26,3 +30,9 @@
 - **Audio**: Voice recordings are my own. Sound effects and background music, if present, are licensed through Artlist Max.
 - **Video**: All video content was recorded and edited by me.
 - **Images**: All images used are original or part of licensed assets via Artlist Max. No unlicensed stock imagery was used.
+
+## Learning Notes
+*Notes and lessons learned:*
+- Organizing code into folders helps out with structure to improve scalability, and future maintainability.
+- Doing "**../**name.type" seems to automatically nest the file "name.type" into **../**. Disregarding current folder structure.
+- Updated overall structure of code breaking it down into clear and identifiable sections.
